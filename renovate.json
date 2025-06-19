@@ -6,7 +6,6 @@
     "group:monorepos",
     "group:recommended"
   ],
-  "postUpdateOptions": ["pnpmDedupe"],
   "lockFileMaintenance": {
     "enabled": true,
     "automerge": true
